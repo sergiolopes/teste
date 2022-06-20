@@ -11,6 +11,8 @@ vitrinedev:
 
 Desenvolvi esse projeto em 2018 durante meus estudos!
 
+Versão com tabela pura:
+
 | Vitrine.Dev |     |
 | ----------- | --- | 
 | Nome        | Titulo do Projeto teste
@@ -19,6 +21,8 @@ Desenvolvi esse projeto em 2018 durante meus estudos!
 | Desafio     | [imersao de java 3.0](https://url-do-challenge.alura.com.br/challenge/front-end/v2-compridao)
 
 ---
+
+Versao com coluna oculta dando id pras linhas:
 
 | Vitrine.Dev |     |
 | ----------- | --- |
@@ -36,6 +40,8 @@ Desenvolvi esse projeto em 2018 durante meus estudos!
 | [URL do projeto](https://url-deploy.na-vercel.ou-github.io/bem-comprido) | vitrine_url
 | [Criado na Imersao de Java 3.0](https://url-do-challenge.alura.com.br/challenge/front-end/v2-compridao) | vitrine_desafio 
 
+
+Versao pura comentario HTML mas ai nao renderiza no README ai nao serve:
 
 <!-- vitrinedev
 titulo: "Titulo do Projeto teste"
