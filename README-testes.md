@@ -11,6 +11,15 @@ vitrinedev:
 
 Desenvolvi esse projeto em 2018 durante meus estudos!
 
+Versao com listas:
+
+<!--vitrinedev-->
+* Nome: "Titulo do Projeto teste"
+* Tecnologias: java, html, ruby, c#
+* URL: https://url-deploy.com
+* Desafio: https://url-do-challenge.com
+<!--/ vitrinedev-->
+
 Versão com tabela pura:
 
 | Vitrine.Dev |     |
