@@ -2,7 +2,7 @@
 
 Eu desenvolvi em 2018 quando tava estudando bastante na Alura e ficou bem legalzao:
 
-![](vitrinedev.png)
+![](https://imersao-gamedev.github.io/placar/assets/vencedores/1.png#vitrinedev)
 
 | Vitrine.Dev |     |
 | ----------- | --- | 
